@@ -1,6 +1,8 @@
 # Samra Fatima  
 
-### BS Artificial Intelligence Student | Flutter & Web App Developer | Future ML Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&width=900&lines=BS+Artificial+Intelligence+Student+%7C+Flutter+%26+Web+App+Developer+%7C+Future+ML+Engineer" />
+</p>
 
 <!--
 **Samra-ca/Samra-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
