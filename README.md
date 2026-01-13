@@ -55,7 +55,7 @@ Currently, I focus on learning, creating projects, and growing as a professional
 <!-- ================= GitHub Stats ================= -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamraFatima&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samra-ca&show_icons=true&theme=react" />
 </p>
 
 
