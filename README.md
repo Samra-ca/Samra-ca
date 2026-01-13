@@ -1,4 +1,6 @@
-## Hi there 👋
+# Samra Fatima  
+
+### BS Artificial Intelligence Student | Flutter & Web App Developer | Future ML Engineer
 
 <!--
 **Samra-ca/Samra-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
