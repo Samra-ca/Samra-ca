@@ -21,13 +21,13 @@ Currently, I focus on learning, creating projects, and growing as a professional
 <!-- ================= Skills ================= -->
 ## 💻 Skills & Technologies
 
-### Flutter & Mobile
+<h3 align="center">Flutter & Mobile</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 </p>
 
-### Web Development
+<h3 align="center">Web Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp;
@@ -36,14 +36,14 @@ Currently, I focus on learning, creating projects, and growing as a professional
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
-### AI & Machine Learning
+<h3 align="center">AI & Machine Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Computer%20Vision-008080?style=flat-square&logo=opencv&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Gaming%20AI-DAA520?style=flat-square&logo=unity&logoColor=white" />
 </p>
 
-### Tools & Platforms
+<h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
