@@ -52,12 +52,6 @@ Currently, I focus on learning, creating projects, and growing as a professional
 
 ---
 
-## 📈 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Samra-ca&theme=react-dark&hide_border=true" />
-</p>
-
-
 
 
 <!--
