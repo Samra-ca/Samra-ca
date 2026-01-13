@@ -2,7 +2,7 @@
 
 <h2 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=BS+Artificial+Intelligence+Student;Flutter+App+Developer;Websites+%26+Web+Applications;Future+Machine+Learning+Engineer" 
+    src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=purple&center=true&vCenter=true&width=800&lines=BS+Artificial+Intelligence+Student;Flutter+App+Developer;Websites+%26+Web+Applications;Future+Machine+Learning+Engineer" 
     alt="Typing SVG" 
   />
 </h2>
