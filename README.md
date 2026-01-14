@@ -1,5 +1,5 @@
 <!-- ================= Header ================= -->
-<h1 align="center">Samra Fatima hello</h1>
+<h1 align="center">Samra Fatima</h1>
 
 <h2 align="center">
   <img 
