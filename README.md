@@ -19,7 +19,7 @@ Currently, I focus on learning, creating projects, and growing as a professional
 ---
 
 <!-- ================= Skills ================= -->
-## 💻 Skills & Technologies its
+## 💻 Skills & Technologies
 
 <h3 align="center">Flutter & Mobile</h3>
 <p align="center">
