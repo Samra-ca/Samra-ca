@@ -1,4 +1,5 @@
 <!-- ================= Header ================= -->
+<!-- ================= Header ================= -->
 <h1 align="center">Samra Fatima</h1>
 
 <h2 align="center">
@@ -10,7 +11,6 @@
 
 ---
 
-<!-- ================= About Me ================= -->
 ## 🧠 About Me
 I am **Samra Fatima**, a passionate **AI student** and **beginner Flutter developer**.  
 I love building **interactive web apps** using modern tools like **React & Vite** and exploring **Machine Learning, Computer Vision, and Gaming AI**.  
@@ -18,39 +18,69 @@ Currently, I focus on learning, creating projects, and growing as a professional
 
 ---
 
-<!-- ================= Skills ================= -->
 ## 💻 Skills & Technologies
 
 <h3 align="center">Flutter & Mobile</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </p>
 
 <h3 align="center">Web Development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </p>
 
 <h3 align="center">AI & Machine Learning</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Computer%20Vision-008080?style=flat-square&logo=opencv&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Gaming%20AI-DAA520?style=flat-square&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Computer%20Vision-008080?style=flat-square&logo=opencv&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Gaming%20AI-DAA520?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
 ---
+
+## 📊 GitHub Overview
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samra-ca&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samra-ca&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samra-ca&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 💼 GitHub: https://github.com/samra-ca  
+- 📧 Email: (add your email if you want)
+
+---
+
+<div align="center">
+
+✨ <i>Learning every day. Building with purpose.</i> ✨  
+<img src="https://komarev.com/ghpvc/?username=samra-ca&color=7F5AF0"/>
+
+</div>
+
 
 
 
