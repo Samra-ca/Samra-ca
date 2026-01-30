@@ -76,6 +76,10 @@ Currently, I focus on learning, creating projects, and growing as a professional
 
 <a href="https://www.linkedin.com/in/samra-fatima-855917351/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+
+<a href="mailto:sminhas1405@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
