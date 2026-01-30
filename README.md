@@ -70,14 +70,13 @@ Currently, I focus on learning, creating projects, and growing as a professional
 ## 📫 Contact
 
 - 💼 GitHub: https://github.com/samra-ca  
-- 📧 Email: (add your email if you want)
+- 📧 Email: sminhas1405@gmail.com
 
 ---
 
 <div align="center">
 
 ✨ <i>Learning every day. Building with purpose.</i> ✨  
-<img src="https://komarev.com/ghpvc/?username=samra-ca&color=7F5AF0"/>
 
 </div>
 
