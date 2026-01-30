@@ -69,8 +69,15 @@ Currently, I focus on learning, creating projects, and growing as a professional
 
 ## 📫 Contact
 
-- 💼 GitHub: https://github.com/samra-ca  
-- 📧 Email: sminhas1405@gmail.com
+<p align="center">
+<a href="https://github.com/samra-ca">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>&nbsp;
+
+<a href="https://www.linkedin.com/in/samra-fatima-855917351/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
