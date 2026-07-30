@@ -10,14 +10,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 I am **Samra Fatima**, a passionate **AI student** and **beginner Flutter developer**.  
 I love building **interactive web apps** using modern tools like **React & Vite** and exploring **Machine Learning, Computer Vision, and Gaming AI**.  
 Currently, I focus on learning, creating projects, and growing as a professional developer.
 
 ---
 
-## 💻 Skills & Technologies
+## Skills & Technologies
 
 <h3 align="center">📱 Flutter & Mobile</h3>
 <p align="center">
@@ -86,7 +86,7 @@ Currently, I focus on learning, creating projects, and growing as a professional
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samra-ca&theme=tokyonight&hide_border=true"/> 
@@ -94,7 +94,7 @@ Currently, I focus on learning, creating projects, and growing as a professional
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p>
 <a href="https://github.com/samra-ca">
