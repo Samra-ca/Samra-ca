@@ -24,24 +24,19 @@
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2>
+## 👩‍💻 About Me
 
-<p align="center">
-I am <b>Samra Fatima</b>, a passionate <b>AI student</b> and <b>beginner Flutter developer</b>.<br>
-I love building <b>interactive web apps</b> using modern tools like <b>React & Vite</b><br>
-and exploring <b>Machine Learning, Computer Vision, and Gaming AI</b>.<br>
+I am **Samra Fatima**, a passionate **AI student** and **beginner Flutter developer**.  
+I love building **interactive web apps** using modern tools like **React & Vite** and exploring **Machine Learning, Computer Vision, and Gaming AI**.  
 Currently, I focus on learning, creating projects, and growing as a professional developer.
-</p>
 
-<p align="center">
-🔭 <b>Currently working on:</b> Flutter apps and React + Vite web projects<br>
-🌱 <b>Currently learning:</b> Machine Learning, Deep Learning & Computer Vision<br>
-👯 <b>Looking to collaborate on:</b> AI, Flutter and web development projects<br>
-🤔 <b>Looking for help with:</b> Advanced ML concepts and app architecture<br>
-💬 <b>Ask me about:</b> Flutter, React, Python, and getting started in AI<br>
-🎯 <b>Goal:</b> To become a Machine Learning Engineer<br>
-⚡ <b>Fun fact:</b> I turn coffee into code ☕➡️💻
-</p>
+- 🔭 **Currently working on:** Flutter apps and React + Vite web projects
+- 🌱 **Currently learning:** Machine Learning, Deep Learning & Computer Vision
+- 👯 **Looking to collaborate on:** AI, Flutter and web development projects
+- 🤔 **Looking for help with:** Advanced ML concepts and app architecture
+- 💬 **Ask me about:** Flutter, React, Python, and getting started in AI
+- 🎯 **Goal:** To become a Machine Learning Engineer
+- ⚡ **Fun fact:** I turn coffee into code ☕➡️💻
 
 ---
 
@@ -225,35 +220,17 @@ Currently, I focus on learning, creating projects, and growing as a professional
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+## 🎓 Education
 
-<p align="center">
-🎓 <b>BS Artificial Intelligence</b> — currently pursuing
-</p>
+- 🎓 **BS Artificial Intelligence** — currently pursuing
 
 ---
 
-<h2 align="center">🎯 2026 Goals</h2>
+## 📫 Let's Connect
 
-<p align="center">
-✅ Build my developer profile on GitHub<br>
-⬜ Publish my first Flutter app<br>
-⬜ Build and deploy a React portfolio website on Vercel<br>
-⬜ Complete a Machine Learning project end to end<br>
-⬜ Build a Computer Vision project with OpenCV<br>
-⬜ Contribute to an open-source project<br>
-⬜ Write technical posts about what I learn
-</p>
-
----
-
-<h2 align="center">📫 Let's Connect</h2>
-
-<p align="center">
 I'm always open to collaborations, learning opportunities and friendly tech conversations.
-</p>
 
-<p align="center">
+<p>
 <a href="https://github.com/samra-ca">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>&nbsp;
