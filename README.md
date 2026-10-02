@@ -1,5 +1,7 @@
-<!-- ================= Header ================= -->
-<h1 align="center">Samra Fatima</h1>
+<!-- ================= Banner ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Samra%20Fatima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Flutter%20Developer%20%7C%20Web%20Builder&descAlignY=58&descSize=20" width="100%"/>
+</div>
 
 <h2 align="center">
   <img 
@@ -8,16 +10,37 @@
   />
 </h2>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samra-ca&label=Profile%20Views&color=7F5AF0&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/samra-ca?label=Followers&style=flat-square&color=7F5AF0&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/samra-ca?label=Stars&style=flat-square&color=7F5AF0&logo=github" alt="Stars"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/samra-ca"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samra-fatima-855917351/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sminhas1405@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
-## About Me
+## 👩‍💻 About Me
+
 I am **Samra Fatima**, a passionate **AI student** and **beginner Flutter developer**.  
 I love building **interactive web apps** using modern tools like **React & Vite** and exploring **Machine Learning, Computer Vision, and Gaming AI**.  
 Currently, I focus on learning, creating projects, and growing as a professional developer.
 
+- 🔭 **Currently working on:** Flutter apps and React + Vite web projects
+- 🌱 **Currently learning:** Machine Learning, Deep Learning & Computer Vision
+- 👯 **Looking to collaborate on:** AI, Flutter and web development projects
+- 🤔 **Looking for help with:** Advanced ML concepts and app architecture
+- 💬 **Ask me about:** Flutter, React, Python, and getting started in AI
+- 🎯 **Goal:** To become a Machine Learning Engineer
+- ⚡ **Fun fact:** I turn coffee into code ☕➡️💻
+
 ---
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <h3 align="center">📱 Flutter & Mobile</h3>
 <p align="center">
@@ -70,11 +93,12 @@ Currently, I focus on learning, creating projects, and growing as a professional
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 </p>
 
 <h3 align="center">☁️ Cloud & DevOps</h3>
@@ -86,25 +110,71 @@ Currently, I focus on learning, creating projects, and growing as a professional
 
 ---
 
-## GitHub Overview
+## 🗺️ Learning Roadmap
 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samra-ca&theme=tokyonight&hide_border=true"/> 
+| Area | What I'm Focusing On | Status |
+|------|----------------------|--------|
+| 📱 **Flutter & Dart** | Building mobile apps with Firebase | 🔄 In Progress |
+| 🌐 **React & Vite** | Interactive web apps with Tailwind CSS | 🔄 In Progress |
+| 🐍 **Python** | Strong foundation for AI & ML | 🔄 In Progress |
+| 🧠 **Machine Learning** | Scikit-Learn, Pandas, NumPy | 🔄 In Progress |
+| 👁️ **Computer Vision** | Image processing with OpenCV | 📅 Up Next |
+| 🔥 **Deep Learning** | TensorFlow & PyTorch | 📅 Up Next |
+
+**Legend:** ✅ Completed &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 📅 Up Next
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samra-ca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samra-ca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=samra-ca&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samra-ca&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samra-ca&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
 
-## Contact
+## 🎓 Education
+
+- 🎓 **BS Artificial Intelligence** — currently pursuing
+
+---
+
+## 🎯 2026 Goals
+
+- [x] Build my developer profile on GitHub
+- [ ] Publish my first Flutter app
+- [ ] Build and deploy a React portfolio website on Vercel
+- [ ] Complete a Machine Learning project end to end
+- [ ] Build a Computer Vision project with OpenCV
+- [ ] Contribute to an open-source project
+- [ ] Write technical posts about what I learn
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborations, learning opportunities and friendly tech conversations.
 
 <p>
 <a href="https://github.com/samra-ca">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>&nbsp;
-
 <a href="https://www.linkedin.com/in/samra-fatima-855917351/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-
 <a href="mailto:sminhas1405@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
@@ -114,24 +184,10 @@ Currently, I focus on learning, creating projects, and growing as a professional
 
 <div align="center">
 
-✨ <i>Learning every day. Building with purpose.</i> ✨  
+💬 <i>"First, solve the problem. Then, write the code."</i>
+
+✨ <i>Learning every day. Building with purpose.</i> ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-<!--
-**Samra-ca/Samra-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->                                                         
